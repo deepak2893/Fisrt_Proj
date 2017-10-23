@@ -1,3 +1,5 @@
+#!/bin/sh
+
 import time
 import re
 import apiai
