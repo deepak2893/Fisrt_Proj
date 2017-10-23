@@ -79,4 +79,4 @@ class genesis:
             exit(1)
                                    
 devstr = genesis()     
-devstr.start()
+app = devstr.start()
